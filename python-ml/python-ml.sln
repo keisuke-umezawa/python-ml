@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lecture1", "lecture1\lecture1.pyproj", "{3A110C90-FD3E-4D52-988E-827981D5E902}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lectur3", "lectur3\lectur3.pyproj", "{0996FAB6-0C6A-4CDA-A89B-8915A849D95A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lecture4", "lecture4\lecture4.pyproj", "{86060ECE-4408-43E6-9862-A542CE7D570E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,8 @@ Global
 		{3A110C90-FD3E-4D52-988E-827981D5E902}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0996FAB6-0C6A-4CDA-A89B-8915A849D95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0996FAB6-0C6A-4CDA-A89B-8915A849D95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86060ECE-4408-43E6-9862-A542CE7D570E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86060ECE-4408-43E6-9862-A542CE7D570E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
